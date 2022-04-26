@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @info8gg
+- 👋 I’m @info8gg
 - 👀 I’m interested in macine leaning.
 - 🌱 I’m currently learning python & sklearn.
 
